@@ -30,6 +30,8 @@ Prompt Engineering, Agentic AI integrations, advanced OpenAI SDK usage
 
 ---
 
+> ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen)
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/saniya-kanwal-72582a250/
 ---
